@@ -1,0 +1,4 @@
+- Precompiled binaries for electron with support for proprietary codecs (ac3, hevc)
+- Credit to https://github.com/ThaUnknown/electron-chromium-codecs for the build instructions
+- Couldn't build Mac binaries cause I don't have a Mac
+- The compilation scripts are mostly broken so be sure to monitor the script as it runs if you wanna use them
